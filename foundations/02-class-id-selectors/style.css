@@ -1,0 +1,25 @@
+.odd {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(233, 53, 53, 0.705);
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+.test {
+    font-style: italic;
+}
+
+#two {
+
+    color:blue;
+    font-size: 36px;
+
+}
+
+#four {
+
+    background-color: rgba(51, 223, 51, 0.795);
+    font-weight: bold;  
+}
