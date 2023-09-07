@@ -1,0 +1,26 @@
+div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    margin: auto;
+    width: auto;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+p {
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
+
+button {
+    background-color: orange;
+    font-size: 18;
+    transition: transform .3s ease-in-out;
+}
+
+button:hover {
+    transform: scale(1.2);
+}
