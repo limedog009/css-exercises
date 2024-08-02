@@ -1,0 +1,20 @@
+.odd-numbers {
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color: lightpink;
+}
+
+.odd-numbers.two {
+    font-size: 24px;
+}
+
+h2 {
+    color: blue;
+    font-size: 36px;
+}
+
+h3 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
