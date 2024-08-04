@@ -1,0 +1,28 @@
+body{
+    background-color: #eee;
+}
+
+.card{
+    width: 400px;
+    margin: 10px auto;
+    padding: 10px;
+    border: 2px solid black;
+    background-color: white;
+    border-color: black;
+}
+.title {
+    margin: 20px;
+    padding: 5px;
+    background-color: #48a2df;
+    font-weight: bold;
+}
+.content {
+    margin: 20px;
+    padding: 5px;
+    background-color: #48a2df;
+}
+.button-container{
+    margin: 20px;
+    padding: 5px;
+    background-color: #48a2df;
+}
