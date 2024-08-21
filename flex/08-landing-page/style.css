@@ -33,6 +33,12 @@ body {
     font-size: 1.5rem; /* Responsive font size */
 }
 
+.logo img {
+    width: 80px; /* Adjust this value as needed */
+    height: auto; /* Maintain the aspect ratio */
+    display: block;
+}
+
 .quick-links a {
     text-decoration: none;
     color: white;
@@ -129,6 +135,18 @@ button {
     color: #1F2937;
 }
 
+.middle-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.middle-logo img{
+    padding-top: 24px;
+    width: 100px;
+    height:auto;
+}
+
 /* Quote Section */
 
 .middle-bottom {
@@ -145,6 +163,7 @@ button {
     width: 100%;
     text-align: left; /* Align text within the box */
     flex-direction: column;
+    text-align: center;
 }
 
 .middle-bottom .quote {
@@ -178,7 +197,7 @@ button {
     display: flex;
     align-items: center;
     color: white;
-    gap: 20px;
+    gap: 48px;
     width: 100%;
     max-width: 800px;
     flex-direction: column; /* Stack elements on small screens */
